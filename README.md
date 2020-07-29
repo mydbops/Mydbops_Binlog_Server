@@ -12,3 +12,4 @@ mysql user with REPLICATION SLAVE and REPLICATION CLIENT privilege.
 
 How to set up the binlog server , is explained our blog , please go through the link.
 
+https://mydbops.wordpress.com/2020/07/29/mydbops-binlog-server-using-systemctl/
